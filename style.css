@@ -11,4 +11,4 @@ body {
             display: inline-block;
         }
 
-/*Robert was here!*/
+/*I addeded d-flex flex-column align-items-center to your parent div of the search input, select and button which keeps the button centered with the other elements. */
